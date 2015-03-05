@@ -1,6 +1,6 @@
 # Why should developers study writing?
 
-If you've picked up this book, chances are that you're a software developer.
+If you've picked up this book, then you're probably a software developer.
 Furthermore, you're someone who cares about your career.
 You've probably spent countless hours
 studying manuals,
@@ -13,10 +13,10 @@ There are a thousand other things you could learn.
 Why spend the time studying writing?
 Let's walk through some of the things you might be thinking.
 
-## Objection 1: I'm paid to code, not to write
+## Objection 1: I'm paid to code, not to write.
 
 In most cases, developers aren't paid to code.
-Rather, we are paid to produce working software that solves a business problem.
+We are paid to produce working software that solves a business problem.
 In order to do that we may need to:
 
 * Email a product manager to clarify a requirement
