@@ -193,5 +193,7 @@ Checked boxes indicate that the initial draft of a section is complete.
 - [ ] Error messages
 - [ ] Help articles
 - [ ] UI text
+- [ ] Commit messages
+- [ ] Code review
 - [ ] Code?
 - [ ] Talks/presentations?
