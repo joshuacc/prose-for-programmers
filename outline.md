@@ -2,7 +2,7 @@
 
 Checked boxes indicate that the initial draft of a section is complete.
 
-## Why should developers learn to write?
+## [Why should developers learn to write?](manuscript/why.md)
 
 - [x] Objections
     - [x] Paid to code, not write
