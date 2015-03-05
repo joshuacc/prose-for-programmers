@@ -4,24 +4,16 @@ Checked boxes indicate that the initial draft of a section is complete.
 
 ## Why should developers learn to write?
 
-- [ ] Objections
-    - [ ] Paid to code, not write
-        - [ ] Laundry list of writing developers have to do
-            - [ ] email
-            - [ ] api docs
-            - [ ] etc.
-        - [ ] Coding is writing
-    - [ ] I already know how to write. I did well in school.
-        - [ ] Literacy, even college level, doesn’t mean your writing is good
-        - [ ] Academics can even foster bad writing habits
-            - [ ] vagueness
-            - [ ] indirect
-            - [ ] overly formal
-            - [ ] verbose
-            - [ ] jargon
-    - [ ] But I could be learning technology X instead
-        - [ ] Writing is a durable skill
-        - [ ] Writing is a transferable skill
+- [x] Objections
+    - [x] Paid to code, not write
+        - [x] Laundry list of writing developers have to do
+        - [x] Coding is writing
+    - [x] I already know how to write. I did well in school.
+        - [x] Literacy, even college level, doesn’t mean your writing is good
+        - [x] Academics can even foster bad writing habits
+    - [x] But I could be learning technology X instead
+        - [x] Writing is a durable skill
+        - [x] Writing is a transferable skill
 - [ ] Benefits
     - [ ] Better collaboration with teammates
     - [ ] Fewer bugs due to misunderstood code/docs
