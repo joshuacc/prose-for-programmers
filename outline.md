@@ -15,11 +15,11 @@ Checked boxes indicate that the initial draft of a section is complete.
         - [x] Writing is a durable skill
         - [x] Writing is a transferable skill
 - [ ] Benefits
+    - [x] fewer back and forth emails/chats
+    - [x] Fewer bugs due to misunderstood code/docs
     - [ ] Better collaboration with teammates
-    - [ ] Fewer bugs due to misunderstood code/docs
     - [ ] Fewer interruptions from coworkers with questions (keep flow)
     - [ ] Less in-person surprise questions
-    - [ ] fewer back and forth emails/chats
     - [ ] More understanding/empathy from managers
     - [ ] Recognition of your knowledge
     - [ ] Increase your own understanding

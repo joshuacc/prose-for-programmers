@@ -13,7 +13,7 @@ There are a thousand other things you could learn.
 Why spend the time studying writing?
 Let's walk through some of the things you might be thinking.
 
-## Objection 1: I'm paid to code, not to write.
+## I'm paid to code, not to write.
 
 In most cases, developers aren't paid to code.
 We are paid to produce working software that solves a business problem.
@@ -31,7 +31,7 @@ In order to do that we may need to:
 All of these things are run of the mill tasks for a software developer.
 And every single one of them is a form of writing.
 
-## Objection 2: I already know how to write. I did well in school.
+## I already know how to write. I did well in school.
 
 Unfortunately, literacy,
 even at college or university level,
@@ -47,7 +47,7 @@ Academic writing tends to value a kind of distant objectivity which can manifest
 
 In contrast, most developers would benefit from making their prose clear, direct, and concise.
 
-## Objection 3: But I could be studying the Hoth framework instead. It's so cool!
+## But I could be studying the Hoth framework instead. It's so cool!
 
 Yes, no matter which topic you decide to study,
 you will be passing up something else.
@@ -67,3 +67,38 @@ landscape artist,
 or -- God forbid! -- a manager,
 your expertise in the Hoth MVVM framework will be of limited use.
 But writing will remain.
+
+## But what will I get out of studying writing?
+
+### Less back and forth
+
+We've all experienced out of control email threads.
+It starts with a vague question,
+is usually followed by an ambiguous answer,
+and before you know it,
+someone in another department is freaking out about a non-existent problem.
+
+What if you could step in and make people understand?
+Even better, what if you could prevent the issue from escalating in the first place?
+That's the power of clear and effective writing.
+
+### Fewer bugs and less rework
+
+Sometimes we run across frustratingly mysterious bits of code.
+Perhaps we've even written some ourselves.
+But what's even more frustrating
+is when the code is accompanied by an equally mysterious comment like,
+"fixes IE bug."
+
+What IE bug? And which version of IE?
+
+A developer working on this code, now needs to:
+
+* Talk to the original programmer,
+  who won't remember anything.
+* Manually test to see if there are obvious bugs related to that line,
+  which he probably won't catch.
+* And perhaps make changes anyway,
+  without knowing what he broke.
+
+A clearly written comment would have prevented all of that.
