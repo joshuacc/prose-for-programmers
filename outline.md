@@ -197,3 +197,19 @@ Checked boxes indicate that the initial draft of a section is complete.
 - [ ] Code review
 - [ ] Code?
 - [ ] Talks/presentations?
+
+## Other Resources
+
+- [ ] Books
+    - [ ] The Elements of Style by Strunk & White
+    - [ ] The Economist Style Guide
+    - [ ] Steering the Craft by Ursula K. Le Guin
+    - [ ] Writing That Works by Ogilvy?
+    - [ ] Team Geek?
+- [ ] Applications & Tools
+    - [ ] Workflowy
+    - [ ] Writeroom
+    - [ ] Writemonkey
+    - [ ] IA Writer
+    - [ ] Hemingway?
+    - [ ] write-good npm library?
