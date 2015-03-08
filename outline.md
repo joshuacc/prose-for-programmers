@@ -17,12 +17,10 @@ Checked boxes indicate that the initial draft of a section is complete.
 - [ ] Benefits
     - [x] fewer back and forth emails/chats
     - [x] Fewer bugs due to misunderstood code/docs
-    - [ ] Better collaboration with teammates
-    - [ ] Fewer interruptions from coworkers with questions (keep flow)
-    - [ ] Less in-person surprise questions
-    - [ ] More understanding/empathy from managers
-    - [ ] Recognition of your knowledge
-    - [ ] Increase your own understanding
+    - [x] Fewer interruptions from coworkers with questions (keep flow)
+    - [x] More understanding/empathy from managers
+    - [x] Recognition of your knowledge
+    - [x] Increase your own understanding
 
 ## General Rules
 
