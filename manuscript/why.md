@@ -102,3 +102,52 @@ A developer working on this code, now needs to:
   without knowing what he broke.
 
 A clearly written comment would have prevented all of that.
+
+### Protect your development flow
+
+Talking face to face is a valuable and necessary part of our jobs.
+But not every face to face conversation is valuable.
+
+If you find yourself explaining certain things over and over again
+(perhaps because you're an expert in a particular subsystem)
+then you should write it down in a public location like a team wiki.
+If your explanations are clear and easy to understand,
+you'll have fewer interruptions messing with your development flow.
+
+### Recognition of your expertise
+
+Perhaps you have a different problem.
+You have a deep knowledge of some tool, library, or system,
+but no one realizes it.
+Writing guides, tutorials, and presentations
+can help you achieve greater recognition,
+both inside and outside your company.
+
+### Greater trust from managers
+
+Watching a software development project from the outside can be a frustrating experience.
+This is doubly true if you are on the hook when something goes wrong.
+
+A developer who can clearly articulate the state of the project,
+without getting bogged down in technical details,
+is invaluable.
+
+If you are that developer,
+you will quickly earn the trust of your manager and non-technical colleagues.
+
+### Improve your own understanding
+
+> "How can I tell you what I think till I see what I say?"
+> -- E.M. Forster, _Aspects of the Novel_
+
+The process of writing takes our often fuzzy and unformed ideas,
+and shapes them into something clear enough to communicate to others.
+This makes writing an excellent way to deepen our own understanding of a subject.
+Sometimes the improvement comes from research,
+but often it comes simply due to organizing our own thoughts.
+
+## What now?
+
+Hopefully by this point you can see why studying writing is worthwhile.
+In the next chapter,
+we'll launch into some general rules you can use to improve your writing.
