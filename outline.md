@@ -14,7 +14,7 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] But I could be learning technology X instead
         - [x] Writing is a durable skill
         - [x] Writing is a transferable skill
-- [ ] Benefits
+- [x] Benefits
     - [x] fewer back and forth emails/chats
     - [x] Fewer bugs due to misunderstood code/docs
     - [x] Fewer interruptions from coworkers with questions (keep flow)
