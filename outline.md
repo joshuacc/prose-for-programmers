@@ -22,18 +22,18 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] Recognition of your knowledge
     - [x] Increase your own understanding
 
-## General Rules
+## [General Rules](manuscript/rules.md)
 
-- [ ] Be goal oriented
-    - [ ] Everything you write has a goal or purpose
-        - [ ] may be implicit or explicit
-    - [ ] Understanding the goal promotes better writing
-    - [ ] Structure of goals
-        - [ ] 2 types
-            - [ ] inform
-            - [ ] persuade
-        - [ ] Most writing serves both to one degree or other
-        - [ ] But most writing has a primary goal, with others as secondary
+- [x] Be goal oriented
+    - [x] Everything you write has a goal or purpose
+        - [x] may be implicit or explicit
+    - [x] Understanding the goal promotes better writing
+    - [x] Structure of goals
+        - [x] 2 types
+            - [x] inform
+            - [x] persuade
+        - [x] Most writing serves both to one degree or other
+        - [x] But most writing has a primary goal, with others as secondary
 - [ ] Be concise
     - [ ] Not short or terse
     - [ ] Everything contributes to the goal

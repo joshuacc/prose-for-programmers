@@ -7,7 +7,7 @@ This is a book aimed at helping software developers write better prose.
 There will be chapters on:
 
 * [Why should developers study writing?](manuscript/why.md)
-* General Rules
+* [General Rules](manuscript/rules.md)
 * The Writing Process
 * Writing Structures
 * Audience
