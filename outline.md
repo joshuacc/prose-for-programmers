@@ -34,14 +34,14 @@ Checked boxes indicate that the initial draft of a section is complete.
             - [x] persuade
         - [x] Most writing serves both to one degree or other
         - [x] But most writing has a primary goal, with others as secondary
-- [ ] Be concise
-    - [ ] Not short or terse
-    - [ ] Everything contributes to the goal
-    - [ ] Avoids wordiness for the sake of the goal
-- [ ] Be clear
-    - [ ] Avoid unfamiliar or unnecessary jargon
-    - [ ] Avoid ambiguity
-    - [ ] Be precise
+- [x] Be concise
+    - [x] Not short or terse
+    - [x] Everything contributes to the goal
+    - [x] Avoids wordiness for the sake of the goal
+- [x] Be clear
+    - [x] Avoid unfamiliar or unnecessary jargon
+    - [x] Avoid ambiguity
+    - [x] Be precise
 - [ ] Be organized
     - [ ] Human mind uses patterns to extract meaning
     - [ ] Structure is fractal: macro and micro mirror each other

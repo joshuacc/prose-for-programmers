@@ -89,3 +89,84 @@ but the primary purpose is just to inform them about how to do so.
 
 [^telos]: If you're familiar with ancient Greek philosophy,
 this is what Aristotle would call the document's _telos_.
+
+## 2. Be concise.
+
+In a professional context,
+everyone is pressed for time.
+Being concise is about respecting your readers' time.
+Don't force them to read a page when a paragraph will do.
+
+Conciseness also helps you achieve your goal.
+The more time investment your text requires,
+the more reluctant readers will be to give it to you.
+So we should do our best to keep the required investment to a minimum.
+
+At the same time, conciseness does not mean being excessively terse.
+Conciseness means saying the exact amount necessary to achieve the goal:
+no more and no less.
+
+## 3. Be Clear
+
+### Avoid ambiguity
+
+Human language is rife with ambiguity.
+Take as an example my first title idea for this book:
+"Writing for Developers."
+Only three words,
+yet it could be read in two totally different ways.
+That title could have meant
+-- as I intended --
+"A book for developers on the subject of writing."
+But another equally reasonable interpretation was,
+"A book on writing for an audience of developers."
+
+Ambiguous language is useful in art and poetry,
+but not when we are trying to communicate as efficiently as possible.
+
+### Avoid jargon
+
+It is also wise to avoid unfamiliar terms and jargon.
+Of course, this is dependent on your audience.
+To a developer, this sentence makes perfect sense:
+
+> "Hoth is a lightweight MVVM framework
+> which leverages dirty checking
+> and immutable data structures for performance."
+
+To a non-developer,
+it sounds more like this:
+
+> Hoth is a lightweight magic framework
+> which leverages scary magic
+> and scarier magic for performance.
+
+For readers unfamiliar with the terminology it communicates next to nothing.
+
+### Narrow the scope of your words
+
+We love to speak in generalities.
+Perhaps because it is difficult to definitely prove a generality wrong.
+The problem is that the more general a statement is,
+the more difficult it is to understand and apply.
+Consider this example:
+
+> Object-oriented programming is terrible.
+
+It's not completely meaningless,
+but it is extremely broad,
+and the implications are unclear.
+Should readers avoid all object oriented languages?
+It's hard to tell what the author is thinking.
+
+Contrast with this:
+
+> Class-based inheritance tends to make code unnecessarily complex.
+
+This version has narrowed the scope in two ways.
+It has narrowed from all object-oriented programming to class-based inheritance.
+And it has narrowed from "terrible" to "tends toward unnecessary complexity."
+As a result,
+this sentence is much easier to understand and evaluate.
+
+Given the choice between the specific and the general, choose the specific.
