@@ -47,12 +47,12 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] Structure is fractal: macro and micro mirror each other
     - [x] Projects may come with built-in structure (API docs)
     - [x] Several general purpose structures available
-- [ ] Be scannable
-    - [ ] Typographic structure to direct attention to ideas
-    - [ ] Break up text into digestible chunks
-    - [ ] Make use of bold and italic to highlight points
-    - [ ] use headlines
-    - [ ] use lists
+- [x] Be scannable
+    - [x] Typographic structure to direct attention to ideas
+    - [x] Break up text into digestible chunks
+    - [x] use headlines
+    - [x] use lists
+    - [x] Make use of bold and italic to highlight points
 
 ## The Writing Process
 
