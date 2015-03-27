@@ -170,3 +170,101 @@ As a result,
 this sentence is much easier to understand and evaluate.
 
 Given the choice between the specific and the general, choose the specific.
+
+## 4. Be organized.
+
+For many people this is the most difficult part.
+They know the goal.
+They can write clear, concise sentences.
+But they have a hard time putting those pieces together into a coherent whole.
+
+In the next chapter we'll look at how to do it.
+For now let's explore why.
+
+### Structure aids comprehension
+
+The human mind is built for pattern matching.
+And it is pretty good at its job,
+otherwise we'd have all been eaten by tigers long ago.
+
+Consider two different lists:
+
+* Apple pie
+* Blueberry pie
+* Cranberry pie
+
+* Wrench
+* Justice
+* Puppy
+
+The first list is much more memorable and comprehensible.
+Why?
+Because it is organized into a structure that our minds can easily extract.
+Each item in the list was a pie.
+Each of the pies was fruit-based.
+And the pies were alphabetically ordered.
+But the second list had no unifying organizational structure.
+
+### Structure is fractal
+
+Writing structures are simultaneously high level and low level.
+They encompass everything
+from your three main points
+to that sub-sub-sub-point in paragraph 45.
+And if you've chosen your structure well,
+the micro and macro levels will tend to mirror each other.
+For example, consider this outline for an article on the Hoth Framework.
+
+> * Intro to Hoth
+> * Immutable data structures
+>   * Intro
+>   * Benefits
+>   * Examples
+> * Dirty checking
+>   * Intro
+>   * Benefits
+>   * Examples
+> * Example application
+> * Conclusion
+
+Both of the main sub-points follow the same structure as the outline as a whole.
+The mirroring isn't always this obvious,
+but it is generally present.
+
+### Projects may come with built-in structure
+
+Certain kinds of projects come with ready-made,
+very detailed structures,
+simply because of how common that type of project is.
+API docs,
+for example,
+may vary a bit by language,
+but will generally look pretty close to this.
+
+* Modules
+  * Name
+  * Description
+  * Classes
+    * Name
+    * Description
+    * Methods
+      * Name
+      * Arguments
+      * Return value
+      * Description
+
+Not every predetermined structure is that specific, though.
+Library websites have several things they need to include,
+like language,
+purpose of the library,
+and how to install it,
+but they also have more flexibility.
+
+### General purpose structures
+
+In addition to these very specific structures,
+there are also many general purpose structures.
+These are things like the inverted pyramid, objection-response, etc.
+
+Typically you will pick two or three of these general purpose structures
+and use them as the organizing principle of the project.
