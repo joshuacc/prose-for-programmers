@@ -268,3 +268,81 @@ These are things like the inverted pyramid, objection-response, etc.
 
 Typically you will pick two or three of these general purpose structures
 and use them as the organizing principle of the project.
+
+## 5. Be scannable.
+
+While the previous rule was about the conceptual structure of a text,
+this rule is about the visual typographic structure.
+The point of scannability is to allow readers to locate important information at a glance,
+rather than reading every word on the page.
+Even for readers that do read every word,
+scannable typography makes it easier to refer back to key ideas in the text.
+
+### Break text into bite-sized pieces
+
+Have you ever read a paragraph that took up an entire printed page?
+They are no fun to read.
+With no visual breaks,
+it is difficult to keep track of where you are,
+much less follow the flow of ideas.
+
+To maximize scannability,
+text should be broken into bite-sized units of thought.
+Paragraphs, for example, should generally be 2-5 sentences long.
+Much longer and it becomes difficult to read.
+Shorter and you may want to use a heading instead.
+
+### Divide and conquer with headings
+
+The primary purpose of headings is to make your text's conceptual structure explicit.
+However, they also have two important scannability implications.
+
+First, headings provide a visual anchor allowing readers to locate where a concept is discussed.
+
+Second, headings breaks the text into units of progress which help the reader stay motivated to continue.
+This is part of the reason list posts are such a popular article format.
+Each time the reader reaches the next heading,
+they get to cross something off their mental checklist.
+
+### Use lists for your lists
+
+While not as common as paragraphs,
+the humble list is one of the author's most helpful tools.
+It provides:
+
+* Visual attraction for the list
+* Visual attraction for each item in the list
+* A break from the monotony of paragraphs
+* A sense of progress
+
+You can, of course, embed lists directly into your sentences and paragraphs.
+
+> While not as common as paragraphs,
+> the humble list is one of the author's most helpful tools.
+> It provides:
+> visual attraction for the list,
+> visual attraction for each item in the list,
+> a break from the monotony of paragraphs,
+> and a sense of progress.
+
+However, doing so relegates the list contents to a secondary status.
+In general,
+using typographic lists
+(bulleted, numbered, etc.)
+for your conceptual lists makes sense if the exact contents are worth emphasizing.
+
+### Emphasize key ideas with bold or italics
+
+Ordinary paragraphs are the parts of a text most likely to be skipped over.
+But sometimes important ideas only make sense as part of a paragraph.
+That's where typographic emphasis comes in.
+
+Highlighting important ideas with bold or italics allows readers to see key ideas at a glance.
+
+However, there are some rules of thumb to keep in mind.
+
+* Only highlight one phrase or sentence per paragraph.
+* Don't highlight something in _every_ paragraph.
+* **Never** highlight something with both bold and italics.
+
+Go beyond these limits and readers are likely to feel that you are shouting at them.
