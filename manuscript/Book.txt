@@ -1,1 +1,2 @@
 why.md
+rules.md
