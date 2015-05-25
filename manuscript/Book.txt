@@ -1,2 +1,3 @@
 why.md
 rules.md
+process.md
