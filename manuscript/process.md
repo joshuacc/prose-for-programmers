@@ -26,7 +26,7 @@ In this chapter, we will walk through what each of these steps entail.
 
 ### Why am I writing this, anyway?
 
-Ever time you start writing something,
+Every time you start writing something,
 ask yourself, "Why?"
 Sometimes the answer is obvious,
 but often it's not.
