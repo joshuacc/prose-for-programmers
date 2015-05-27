@@ -54,16 +54,13 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] use lists
     - [x] Make use of bold and italic to highlight points
 
-## The Writing Process
+## [The Writing Process](manuscript/process.md)
 
-- [ ] Determine the goal
-    - [ ] Why am I writing this?
-        - [ ] Purpose of doc
-        - [ ] Not personal motivations
-        - [ ] May be multiple
-    - [ ] Which goal is primary?
-        - [ ] Are any of the goals causes or effects of the others?
-        - [ ] If you had to choose only one, which would it be?
+- [x] Determine the goal
+    - [x] Why am I writing this?
+        - [x] Purpose of doc
+        - [x] Not personal motivations
+    - [x] Keep asking why
 - [ ] Determine audience
     - [ ] Who will be reading this?
     - [ ] Given the goals, which readers are the primary audience?
