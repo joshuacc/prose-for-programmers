@@ -61,12 +61,12 @@ Checked boxes indicate that the initial draft of a section is complete.
         - [x] Purpose of doc
         - [x] Not personal motivations
     - [x] Keep asking why
-- [ ] Determine audience
-    - [ ] Who will be reading this?
-    - [ ] Given the goals, which readers are the primary audience?
-    - [ ] What is their relation to the subject?
-    - [ ] What is their relation to you?
-    - [ ] Examples of how audience affects writing
+- [x] Determine audience
+    - [x] Who will be reading this?
+    - [x] Given the goals, which readers are the primary audience?
+    - [x] What is their relation to the subject?
+    - [x] What is their relation to you?
+    - [x] Examples of how audience affects writing
 - [ ] Choose a suitable structure
     - [ ] Different structures are suitable for different goals
         - [ ] Hierarchical structures are often good for informational

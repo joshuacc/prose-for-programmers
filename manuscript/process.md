@@ -79,4 +79,70 @@ With this more robust goal in mind we're more likely to communicate,
 not just the technique,
 but also its importance and trade-offs.
 
+## 2. Determine the Audience
+
+Once we understand the goal of the document,
+we have enough information to start considering our audience.
+Our first question, though, takes a step back from the goal.
+
+### Who will be reading this?
+
+Often the readership of documents is wider than we would initially expect.
+A framework's website will be read by developers, of course,
+but perhaps also:
+
+* Architects evaluating technology choices
+* Managers trying to keep abreast of what their team is using
+* Technical recruiters trying to understand the skillset they are hiring for
+* Designers trying to understand technical constraints on their designs
+* Sysadmins figuring out the framework's deployment features
+
+Take time to list the different types of potential readers.
+Doing so will help draw out whether additional supporting material is needed.
+
+### Which readers are primary?
+
+Once you have the list of potential readers,
+refer back to the goal to decide which readers are most important.
+In most cases there will be a single group of readers who constitute your primary audience.
+
+Continuing the previous example:
+the primary audience of a framework website is developers.
+Others are important, but secondary to that audience.
+
+### What is their relation to the subject?
+
+At this point we have our primary audience,
+but haven't given much detail about them.
+So it's time to consider their relation to the subject.
+
+One important axis to consider is their current level of expertise.
+Are they absolute beginners,
+world class experts,
+or somewhere in between?
+The answer to this question drives
+which sorts of things can be assumed
+and which need to be explained in great detail.
+
+Another axis is the readers emotional relationship with the subject.
+Are they intimidated, enthusiastic, or something else?
+A developer who fled Java for Ruby will have a very different attitude toward Haskell than a brand new developer.
+They may both be fearful,
+but about different things.
+Those emotional concerns also need to be addressed.
+
+### What is their relation to you?
+
+In addition to the subject,
+we must also consider how the audience is related to you,
+the author.
+Are they coworkers?
+Then you can make certain assumptions about their familiarity with the business.
+
+Are you on friendly terms or is some of the audience hostile?
+You may need to focus more on your logical case for the latter.
+
+Are you part of the same culture/subculture?
+"Corporate suits" probably won't find image macros as amusing as your 22-year-old developer buddy.
+
 [5 Whys]: http://en.wikipedia.org/wiki/5_Whys
