@@ -113,7 +113,7 @@ Others are important, but secondary to that audience.
 ### What is their relation to the subject?
 
 At this point we have our primary audience,
-but haven't given much dtail about them.
+but haven't given much detail about them.
 So it's time to consider their relation to the subject.
 
 One important axis to consider is their current level of expertise.
