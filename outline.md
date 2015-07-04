@@ -199,6 +199,7 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [ ] The Elements of Style by Strunk & White
     - [ ] The Economist Style Guide
     - [ ] Steering the Craft by Ursula K. Le Guin
+    - [ ] On Writing Well by William Zinsser
     - [ ] Writing That Works by Ogilvy?
     - [ ] Team Geek?
 - [ ] Applications & Tools
