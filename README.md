@@ -8,7 +8,7 @@ There will be chapters on:
 
 * [Why should developers study writing?](manuscript/why.md)
 * [General Rules](manuscript/rules.md)
-* The Writing Process
+* [The Writing Process](manuscript/process.md)
 * Writing Structures
 * Audience
 * Genres
