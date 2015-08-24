@@ -76,7 +76,7 @@ Checked boxes indicate that the initial draft of a section is complete.
             - [x] Shallow bullet points
             - [x] Deep information hierarchy
         - [x] Level of interest
-        - [ ] Relationship
+        - [x] Relationship
     - [x] Can mix and match
         - [x] Examples
 - [ ] Build an outline
