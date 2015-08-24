@@ -67,18 +67,18 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] What is their relation to the subject?
     - [x] What is their relation to you?
     - [x] Examples of how audience affects writing
-- [ ] Choose a suitable structure
-    - [ ] Different structures are suitable for different goals
-        - [ ] Hierarchical structures are often good for informational
-        - [ ] Narrative is good for persuasive
-    - [ ] Different structures for different audiences
-        - [ ] Expertise in topic
-            - [ ] Shallow bullet points
-            - [ ] Deep information hierarchy
-        - [ ] Level of interest
+- [x] Choose a suitable structure
+    - [x] Different structures are suitable for different goals
+        - [x] Hierarchical structures are often good for informational
+        - [x] Narrative is good for persuasive
+    - [x] Different structures for different audiences
+        - [x] Expertise in topic
+            - [x] Shallow bullet points
+            - [x] Deep information hierarchy
+        - [x] Level of interest
         - [ ] Relationship
-    - [ ] Can mix and match
-        - [ ] Examples
+    - [x] Can mix and match
+        - [x] Examples
 - [ ] Build an outline
     - [ ] Structure may come with an outline template (API docs)
     - [ ] List of the ideas you want to communicate
