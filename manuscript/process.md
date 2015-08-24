@@ -154,7 +154,7 @@ we can consider how to structure the document to serve them.
 
 ### Choosing a structure based on the goal
 
-Goals can generally be placed on a specturem between purely informational and purely persuasive.
+Goals can generally be placed on a spectrum between purely informational and purely persuasive.
 On one end of the spectrum,
 topical hierarchies are great at communicating lots of information efficiently.
 The hierarchy conveys the big picture while also supporting scanning through subtopics.
