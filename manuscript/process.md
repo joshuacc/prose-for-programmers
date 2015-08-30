@@ -146,3 +146,95 @@ Are you part of the same culture/subculture?
 "Corporate suits" probably won't find image macros as amusing as your 22-year-old developer buddy.
 
 [5 Whys]: http://en.wikipedia.org/wiki/5_Whys
+
+## 3. Choose a Suitable Structure
+
+Now that we know the goal and the audience
+we can consider how to structure the document to serve them.
+
+### Choosing a structure based on the goal
+
+Goals can generally be placed on a spectrum between purely informational and purely persuasive.
+On one end of the spectrum,
+topical hierarchies are great at communicating lots of information efficiently.
+The hierarchy conveys the big picture while also supporting scanning through subtopics.
+
+At the other end of the spectrum,
+narrative is particularly effective at pursading people by engaging our natural sense of empathy.
+Telling a child that "Lying is a bad idea," is less likely to change their behavior than hearing _The Boy Who Cried Wolf_.
+For an example closer to our industry, consider _The Phoenix Project_:
+it vividly illustrates the problems of bureacratic IT departments
+as well as the benefits of embracing the DevOps movement.
+
+### Choosing a structure based on the audience
+
+Your structure also needs to be suited to your audience.
+
+If your primary audience is developers with deep experience in your topic,
+then you may want to address them with an equally deep and detailed hierarchy of topics.
+A beginner, however, would likely benefit from a shallower step by step "recipe" guide.
+
+The reader's level of interest factors into which structure is best suited.
+A highly motivated reader may want to get right to the heart of the matter.
+But a distinterested reader
+--who is only looking at your document because his boss made him--
+may need to be enticed with a joke or anecdote explaining what is in it for him.
+That sort of reader will probably also need frequent positive reinforcement.
+
+The audience's relationship with you also makes a difference.
+If they are familiar with you and trust your judgment,
+they are more likely to be patient waiting for a payoff.
+But if they don't know anything about you,
+the internet is only a click away.
+
+### Mixing and matching
+
+Most writing structures are relatively flexible
+and can be combined with other structures as warranted by the goal and the audience.
+**Don't be afraid to mix and match them.**
+
+For example, suppose that you need to convince business leaders that
+it is worthwhile to break your large monolithic application into several separate services.
+You'd probably start with a Problem-Solution structure like this:
+
+* Problems with the current architecture
+* Proposed solution
+
+In order to help the businesspeople make a decision, you'd probably extend it with a Pro-Con analysis as well.
+
+* Problems with the current architecture
+* Proposed solution
+* Costs and risks of change
+* Costs and risks of not changing
+
+A simple factual elaboration on that outline may win intellectual assent,
+but is unlikely to elicit wholehearted support from non-technical leaders.
+Why?
+Because they lack experiential knowledge of the problems, solutions, and risks.
+
+But parables and other metaphorical narratives can impart a degree of experiential knowledge without requiring actual experience.
+What sort of narrative would work in this case?
+
+Perhaps a story of a military building a single gigantic ship.
+It is powerful,
+but difficult to maneuver,
+and if it somehow fails then its entire arsenal is useless.
+(Business books are fond of military metaphors for some reason.)
+Then contrast this with building a fleet of small independently maneuverable ships.
+
+Revising the outline to incorporate this narrative gives us:
+
+* Problems with the current architecture
+    * Parable of the dreadnought
+    * Supporting factual details
+* Proposed solution
+    * Parable of the fleet
+    * Supporting factual details
+* Costs and risks of change
+    * Refer to parable
+    * Supporting factual details
+* Costs and risks of not changing
+    * Refer to parable
+    * Supporting factual details
+
+Combining these three structures creates a much more powerful and persuasive account any of them alone.
