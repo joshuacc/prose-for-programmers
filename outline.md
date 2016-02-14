@@ -79,12 +79,12 @@ Checked boxes indicate that the initial draft of a section is complete.
         - [x] Relationship
     - [x] Can mix and match
         - [x] Examples
-- [ ] Build an outline
-    - [ ] Structure may come with an outline template (API docs)
-    - [ ] List of the ideas you want to communicate
-    - [ ] Evaluate outline based on goal and audience
-    - [ ] Revise outline
-        - [ ] Revising earlier is cheaper
+- [x] Build an outline
+    - [x] Structure may come with an outline template (API docs)
+    - [x] List of the ideas you want to communicate
+    - [x] Evaluate outline based on goal and audience
+    - [x] Revise outline
+        - [x] Revising earlier is cheaper
 - [ ] Turn outline into prose
     - [ ] Put flesh on the bones
         - [ ] Connective tissue: transitions between ideas

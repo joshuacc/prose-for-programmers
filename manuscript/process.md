@@ -237,4 +237,74 @@ Revising the outline to incorporate this narrative gives us:
     * Refer to parable
     * Supporting factual details
 
-Combining these three structures creates a much more powerful and persuasive account any of them alone.
+Combining these three structures creates a much more powerful and persuasive account than any of them alone.
+
+## 4. Build an Outline
+
+With a structure
+(or set of structures)
+chosen for your project,
+it is time to build an outline.
+Some structures,
+like API documentation,
+may come with an outline template to follow.
+But many others,
+like the inverted pyramid,
+do not.
+
+This phase is all about taking your chosen structures
+and combining them with the details of your subject
+to produce the skeleton of your document.
+
+The outline itself is a simple hierarchical list of
+the things you want to communicate
+and the approach you want to take at each step.
+Particularly for smaller projects,
+the line between choosing a structure and outlining can be rather blurry.
+(Evidenced by the the section on choosing structures ending with an outline!)
+But an outline should show in detail **how** you intend to implement your chosen structure.
+
+### How detailed should an outline be?
+
+This will likely vary from person to person,
+but I prefer to outline in enough detail that
+each low level bullet point corresponds to one or two paragraphs in the final text.
+This gives me sufficient guidance that I don't get lost,
+but also gives me enough flexibility to expand on some points without deviating from the outline.
+
+### How do you actually create the outline?
+
+There are two basic approaches:
+depth-first
+and breadth-first.
+A depth-first approach starts at the top
+and explores all the way down to the details one point at a time.
+A breadth-first approach starts at the highest level
+and only becomes more detailed after all the higher level points have been filled in.
+
+**Partially completed depth-first outline**
+
+* Point 1
+    * Point 1.1
+        * Point 1.1.1
+        * Point 1.1.2
+        * Point 1.1.3
+
+**Partially completed breadth-first outline**
+
+* Point 1
+* Point 2
+* Point 3
+* Point 4
+* Point 5
+
+Breadth-first generally produces better results,
+because it provides more overall context each time we step down a level of detail.
+That extra context makes it much less likely that we will get stuck on trivia.
+
+### Evaluate and revise
+
+Once you've drafted your outline,
+be sure to evaluate it with your goals and audience in mind.
+It is much easier to move or edit a few bullet points
+than to revise entire sections of your document.
