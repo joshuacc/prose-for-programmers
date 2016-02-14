@@ -237,7 +237,7 @@ Revising the outline to incorporate this narrative gives us:
     * Refer to parable
     * Supporting factual details
 
-Combining these three structures creates a much more powerful and persuasive account any of them alone.
+Combining these three structures creates a much more powerful and persuasive account than any of them alone.
 
 ## 4. Build an Outline
 
@@ -302,7 +302,7 @@ Breadth-first generally produces better results,
 because it provides more overall context each time we step down a level of detail.
 That extra context makes it much less likely that we will get stuck on trivia.
 
-### Evaulate and revise
+### Evaluate and revise
 
 Once you've drafted your outline,
 be sure to evaluate it with your goals and audience in mind.
