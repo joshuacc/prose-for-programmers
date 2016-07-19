@@ -65,7 +65,7 @@ If you decide to change careers and become a
 realtor,
 landscape artist,
 or -- God forbid! -- a manager,
-your expertise in the Hoth MVVM framework will be of limited use.
+your expertise in the Hot MVVM framework will be of limited use.
 But writing will remain.
 
 ## But what will I get out of studying writing?
