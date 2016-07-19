@@ -47,7 +47,7 @@ Academic writing tends to value a kind of distant objectivity which can manifest
 
 In contrast, most developers would benefit from making their prose clear, direct, and concise.
 
-## But I could be studying the Hoth framework instead. It's so cool!
+## But I could be studying the Hot framework instead. It's so cool!
 
 Yes, no matter which topic you decide to study,
 you will be passing up something else.
