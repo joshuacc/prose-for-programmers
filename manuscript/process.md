@@ -160,7 +160,7 @@ topical hierarchies are great at communicating lots of information efficiently.
 The hierarchy conveys the big picture while also supporting scanning through subtopics.
 
 At the other end of the spectrum,
-narrative is particularly effective at pursading people by engaging our natural sense of empathy.
+narrative is particularly effective at persuading people by engaging our natural sense of empathy.
 Telling a child that "Lying is a bad idea," is less likely to change their behavior than hearing _The Boy Who Cried Wolf_.
 For an example closer to our industry, consider _The Phoenix Project_:
 it vividly illustrates the problems of bureacratic IT departments
