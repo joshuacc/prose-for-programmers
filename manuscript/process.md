@@ -308,3 +308,82 @@ Once you've drafted your outline,
 be sure to evaluate it with your goals and audience in mind.
 It is much easier to move or edit a few bullet points
 than to revise entire sections of your document.
+
+## 5. Turn the outline into prose
+
+Everything we've talked about so far has been aimed at preparing you for this part of the process.
+You should know your goal, audience and structure.
+And your outline gives you a game plan.
+Now it's time to turn all that into something for others to read.
+
+### Putting flesh on the bones
+
+Right now what you've got is a skeleton.
+It's vaguely in the shape you want,
+but if it tried to walk around it would quickly fall apart.
+There are two principle things that it is lacking:
+muscle to give it strength,
+and ligaments to hold things together.
+Let's start with the muscle.
+
+Bare statements of fact rarely carry much weight with readers,
+regardless of how important those facts might be.
+They have to be elaborated on
+and placed into their proper context.
+And usually the most important context for a reader is the answer to 
+"Why do I care about this?"
+A reason to care gives your prose strength.
+
+Consider this example:
+
+> Continuous integration improves the development process.
+
+> Continuous integration improves the development process by helping us detect defects sooner.
+> That means fewer late night calls to debug production.
+
+The latter includes more supporting detail about _how_ it helps,
+as well as a reason for developers to care about it.
+
+In addition to muscle we need ligaments.
+The ligaments are what actually connects one bone to another.
+The prose equivalent is a transition.
+
+Sudden jumps from one topic to another
+(even closely related)
+are jarring.
+Transitions serve to smooth that over by
+clearly signaling the close of one topic,
+the introduction of the next,
+and possibly how they are related.
+
+A transition can be a simple phrase.
+It can be an entire sentence.
+It can be a paragraph.
+Or multiple paragraphs.
+It all depends on the size of the pieces you're transitioning between.
+
+For an example, take a look at the paragraph that started this section (#5) above.
+
+### It's not necessarily exposition
+
+When working from your outline,
+beware of always choosing the most direct expansion of your points.
+Simple exposition is the most common way of describing things,
+but it isn't always the best.
+Using other forms of expansion will give your prose variety and help maintain reader interest.
+
+Especially in a longer text,
+including the occasional story, joke, or anecdote
+can make the difference between a pleasant read or an unbearably boring one.
+
+Whatever you choose to use,
+it should be integrally related to the points you're trying to make.
+
+There is a story about a high school student who had to give a book report.
+When he stood up in front of the class he yelled,
+"Sex! Sex! Sex!"
+then continued,
+"Now that I have your attention,
+I'd like to talk to you about The Complete History of World War II."
+
+Don't be like the high school student.

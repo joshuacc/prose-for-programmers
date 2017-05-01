@@ -85,13 +85,13 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] Evaluate outline based on goal and audience
     - [x] Revise outline
         - [x] Revising earlier is cheaper
-- [ ] Turn outline into prose
-    - [ ] Put flesh on the bones
-        - [ ] Connective tissue: transitions between ideas
-        - [ ] Muscles: human connection/emotion for strength
-    - [ ] Not necessarily exposition
-        - [ ] Stories
-        - [ ] Jokes
+- [x] Turn outline into prose
+    - [x] Put flesh on the bones
+        - [x] Muscles: human connection/emotion for strength
+        - [x] Connective tissue: transitions between ideas
+    - [x] Not necessarily exposition
+        - [x] Stories
+        - [x] Jokes
 - [ ] Revise
     - [ ] Evaluate
         - [ ] Does this unit advance the goal?
