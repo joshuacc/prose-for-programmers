@@ -387,3 +387,65 @@ then continued,
 I'd like to talk to you about The Complete History of World War II."
 
 Don't be like the high school student.
+
+## 6. Revise
+
+At this point you have a fleshed out draft,
+so now it is time to fix the gaps and rough edges.
+
+### Evaluate
+
+Starting at the beginnning, read each unit of your work.
+Depending on the length of your document, that unit might be a paragraph, section, or chapter.
+As you read, ask yourself the following questions:
+
+* Does this advance the goal?
+* Is it clear?
+* Is it concise?
+* Is it well organized?
+* Is it scannable?
+
+You'll likely want to read the unit multiple times to answer these questions.
+For a longer unit, one read per question -- or even more -- may be appropriate.
+
+{blurb, class: tip}
+#### Tip: Try different contexts
+
+Reading in a different context than you usually write in can help you to see things differently and spot problems more easily.
+For example, if you usually write at a computer,
+try printing your document out on paper,
+or even reading it out loud.
+{/blurb}
+
+### Plan your corrections
+
+Take notes on each thing that needs to be improved,
+but don't make corrections right away.
+Introducing a slight delay between identifying the problem and attempting to fix it
+will give your mind a chance to work on the problem,
+and often arrive at a better solution than the first one you thought of.
+
+Your notes can take many forms:
+a separate text file,
+using Track Changes in Microsoft Word,
+and so on.
+I tend to prefer annnotating a physical paper with pen or pencil,
+but you should experiement and find what works best for you.
+
+After you have a list of all the corrections you plan to make,
+you may be able to spot common patterns for future improvement.
+But the immediate task is to begin making corrections.
+
+### Make your corrections
+
+Proceed through your notes from beginning to end,
+correcting each problem.
+If you get stuck on something,
+leave it to the side for now.
+You'll come back to it later.
+
+Once you've completed all the corrections you were able to make,
+take another look at any you left behind.
+You may know how to fix them now.
+If so, go ahead.
+If not, we'll leave them for the next stage of the writing process: feedback.

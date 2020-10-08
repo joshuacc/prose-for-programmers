@@ -92,15 +92,15 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] Not necessarily exposition
         - [x] Stories
         - [x] Jokes
-- [ ] Revise
-    - [ ] Evaluate
-        - [ ] Does this unit advance the goal?
-        - [ ] Is it concise?
-        - [ ] Is it clear?
-        - [ ] Is it organized?
-        - [ ] Is it scannable?
-    - [ ] Plan a correction
-    - [ ] Make corrections
+- [x] Revise
+    - [x] Evaluate
+        - [x] Does this unit advance the goal?
+        - [x] Is it concise?
+        - [x] Is it clear?
+        - [x] Is it organized?
+        - [x] Is it scannable?
+    - [x] Plan a correction
+    - [x] Make corrections
 - [ ] Get feedback
     - [ ] Types of readers
         - [ ] Target audience
