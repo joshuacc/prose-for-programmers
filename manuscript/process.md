@@ -408,14 +408,12 @@ As you read, ask yourself the following questions:
 You'll likely want to read the unit multiple times to answer these questions.
 For a longer unit, one read per question -- or even more -- may be appropriate.
 
-{blurb, class: tip}
-#### Tip: Try different contexts
-
-Reading in a different context than you usually write in can help you to see things differently and spot problems more easily.
-For example, if you usually write at a computer,
-try printing your document out on paper,
-or even reading it out loud.
-{/blurb}
+T> #### Tip: Try different contexts
+T>
+T> Reading in a different context than you usually write in can help you to see things differently and spot problems more easily.
+T> For example, if you usually write at a computer,
+T> try printing your document out on paper,
+T> or even reading it out loud.
 
 ### Plan your corrections
 
