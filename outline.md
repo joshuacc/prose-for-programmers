@@ -101,18 +101,18 @@ Checked boxes indicate that the initial draft of a section is complete.
         - [x] Is it scannable?
     - [x] Plan a correction
     - [x] Make corrections
-- [ ] Get feedback
-    - [ ] Types of readers
-        - [ ] Target audience
-        - [ ] Experts
-        - [ ] Friends
-    - [ ] Evaluating feedback
-        - [ ] Readers are always right about their reactions
-        - [ ] Readers may be wrong about the problems and solutions they identify
-        - [ ] Bear in mind what kind of reader this is
-    - [ ] Produce a list of problems to address and good points to keep
-- [ ] Revise based on feedback
-    - [ ] See previous
+- [x] Get feedback
+    - [x] Types of readers
+        - [x] Target audience
+        - [x] Experts
+        - [x] Friends
+    - [x] Evaluating feedback
+        - [x] Readers are always right about their reactions
+        - [x] Readers may be wrong about the problems and solutions they identify
+        - [x] Bear in mind what kind of reader this is
+    - [x] Produce a list of problems to address and good points to keep
+- [x] Revise based on feedback
+    - [x] See previous
 - [ ] Publish
     - [ ] May be done at any point (depending on project)
     - [ ] Can be part of an iterative process
