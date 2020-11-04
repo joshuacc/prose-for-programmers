@@ -447,3 +447,105 @@ take another look at any you left behind.
 You may know how to fix them now.
 If so, go ahead.
 If not, we'll leave them for the next stage of the writing process: feedback.
+
+## Get feedback
+
+Up to this point everything has come from you,
+even thinking about the audience.
+But this is where you actually engage with other people for the first time.
+Brace yourself,
+because feedback from real people is almost certain to suprise you,
+regardless of whether it's positive or negative.
+
+### Sources of feedback
+
+Generally you will be getting feedback from one of three types of readers:
+members of the target audience,
+experts on the subject,
+and friends/coworkers.
+Each of these groups has strengths and weaknesses.
+Getting feedback from all three is ideal,
+and occasionally the groups overlap,
+but feedback from any of them is useful for checking your assumptions.
+
+#### Target audience
+
+Members of the target audience are extremely valuable
+because they can tell you whether your writing is achieving the intended goal.
+Unfortunately, they often can't tell you why.
+And even if they do offer a reason,
+it shouldn't always be taken at face value.
+
+To help overcome this issue,
+it can help to supply a list of specific questions for them to answer.
+For example:
+
+* By the end did you think that it is worth investigating the new technology I described?
+* If not, was there a specific point where I lost you?
+* Did any of my supporting evidence seem questionable?
+
+Unfortunately, it can be difficult or impossible to get feedback from the audience.
+After all, when drafting an email to your boss's boss,
+you can't very well ask them to proofread it.
+
+#### Experts
+
+Expert feedback can also be very useful,
+particularly for identifying inaccuracies and mistakes.
+One issue to watch out for, though,
+is that experts may not remember what it was like to be a beginner.
+So if beginners and non-experts are in your target audience,
+be careful of suggestions to includes lots of additional details which they won't have the context to understand.
+
+#### Friends and coworkers
+
+Friends and coworkers are often the easiest reviewers to obtain.
+Unfortunately, they are often the least reliable in providing needed correction.
+No one wants to hurt the feelings of someone they like.
+But they are often excellent at providing encouragement,
+and when working on a large writing project,
+that can be invaluable.
+
+### Evaluating feedback
+
+When evaluating the feedback there are a few principles to keep in mind.
+
+First, _readers are always right about their reactions_.
+If a reader says that they were confused by a certain point,
+then they were,
+no matter how clear it may appear to you.
+
+Second, _a reader's negative reaction does not automatically lead to revision_.
+It is your responsibility to evaluate
+whether issues raised are actually problems for your target audience
+and serious enough to require addressing.
+
+Third, _a reader's proposed solution may not be correct_.
+Sometimes readers will suggest solutions without explaining the problem they identified.
+For example, "I think you need a fancy graphic right here."
+This suggestion might be a good one,
+but you should work to understand the underlying problem.
+Perhaps the text became boring,
+or perhaps a diagram would help with clarity.
+Whatever the case may be,
+don't just take the suggestion at face value.
+
+Finally, _a reader's feedback should be weighted differently based on who they are and what area their feedback is in._
+An expert's feedback regarding correctness should be prioritized over a beginner's,
+and an audience member's feedback regarding readability should be prioritized over the expert's.
+
+### Compile the feedback into revision notes
+
+After taking all of this in,
+you should have a list of changes to make.
+And you may also have a list of positive points which you should try to retain.
+Despite the focus on improving problems,
+you also don't want to edit away something that is working.
+
+## 7. Revise based on feedback
+
+Just like with your first revision notes,
+you will go back through and make your changes one at a time,
+evaluating the criteria of clarity, concision, organization, scannability and goal focus.
+By the time you are done,
+you should have a pretty solid draft.
