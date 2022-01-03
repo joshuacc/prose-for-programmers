@@ -15,3 +15,11 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+
+_site/
+node_modules/
+package-lock.json
+.idea
+.vscode
+*~

@@ -138,6 +138,7 @@ you will quickly earn the trust of your manager and non-technical colleagues.
 ### Improve your own understanding
 
 > "How can I tell you what I think till I see what I say?"
+> 
 > -- E.M. Forster, _Aspects of the Novel_
 
 The process of writing takes our often fuzzy and unformed ideas,

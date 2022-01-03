@@ -25,6 +25,7 @@ Now that we've set the appropriate context, let's look at those rules.
 ## 1. Be goal oriented.
 
 > "In my end is my beginning."
+> 
 > -- T.S. Eliot
 
 ### Everything you write has a goal

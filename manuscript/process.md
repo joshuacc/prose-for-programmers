@@ -460,7 +460,7 @@ regardless of whether it's positive or negative.
 ### Sources of feedback
 
 Generally you will be getting feedback from one of three types of readers:
-members of the target audience,
+members of the target aurdience,
 experts on the subject,
 and friends/coworkers.
 Each of these groups has strengths and weaknesses.
