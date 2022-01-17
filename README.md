@@ -1,6 +1,6 @@
 # Prose for Programmers
 
-_Prose for Programmers_ is a book for programmers.
+This is a book for programmers.
 It is a guide to mastering the most difficult programming language of all: human language.
 
 Just as with programming,
