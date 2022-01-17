@@ -15,7 +15,7 @@ That goal might be as simple as reminding someone about a requirement
 or as complex as justifying an entirely new architecture for a product.
 But in every case we write in order to achieve something.
 
-This book will teach you how to achieve those goals more effectively by communicating more clearly and more persuasively.
+This book will teach you how to achieve those goals more effectively with clearer, more persuasive writing.
 
 ## It is a work in progress
 

@@ -1,14 +1,26 @@
-# Prose for Programmers (WIP)
+# Prose for Programmers
 
-This is a book aimed at helping software developers write better prose.
+_Prose for Programmers_ is a book for programmers.
+It is a guide to mastering the most difficult programming language of all: human language.
 
-## What will this book contain?
+Just as with programming,
+we write with particular goals in mind.
+That goal might be as simple as reminding someone about a requirement
+or as complex as justifying an entirely new architecture for a product.
+But in every case we write in order to achieve something.
 
-There will be chapters on:
+This book will teach you how to achieve those goals more effectively with clearer, more persuasive writing.
+
+## It is a work in progress
+
+The first three chapters are content complete.
 
 * [Why should developers study writing?](manuscript/why.md)
 * [General Rules](manuscript/rules.md)
 * [The Writing Process](manuscript/process.md)
+
+And there are four chapters to come.
+
 * Writing Structures
 * Audience
 * Genres
