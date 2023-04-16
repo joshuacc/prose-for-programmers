@@ -113,13 +113,13 @@ Checked boxes indicate that the initial draft of a section is complete.
     - [x] Produce a list of problems to address and good points to keep
 - [x] Revise based on feedback
     - [x] See previous
-- [ ] Publish
-    - [ ] May be done at any point (depending on project)
-    - [ ] Can be part of an iterative process
-    - [ ] Tell people about it
-    - [ ] Not the end of revision
-- [ ] Conclusion
-    - [ ] Abbreviate process as appropriate
+- [x] Publish
+    - [x] May be done at any point (depending on project)
+    - [x] Can be part of an iterative process
+    - [x] Tell people about it
+    - [x] Not the end of revision
+- [x] Conclusion
+    - [x] Abbreviate process as appropriate
 
 ## Writing Structures
 
