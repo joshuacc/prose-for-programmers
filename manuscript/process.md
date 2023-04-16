@@ -448,7 +448,7 @@ You may know how to fix them now.
 If so, go ahead.
 If not, we'll leave them for the next stage of the writing process: feedback.
 
-## Get feedback
+## 7. Get feedback
 
 Up to this point everything has come from you,
 even thinking about the audience.
@@ -542,7 +542,7 @@ And you may also have a list of positive points which you should try to retain.
 Despite the focus on improving problems,
 you also don't want to edit away something that is working.
 
-## 7. Revise based on feedback
+## 8. Revise based on feedback
 
 Just like with your first revision notes,
 you will go back through and make your changes one at a time,
@@ -568,7 +568,7 @@ and to ensure no new problems have been introduced.
 Consult with both original and new readers to get different perspectives.
 Remember, continuous revision is crucial for producing a polished and effective piece of writing.
 
-## 8. Publish
+## 9. Publish
 
 Publishing your work is usually the most critical part of the writing process,
 but remember, it can happen at any point, depending on the project.
@@ -599,7 +599,7 @@ and be ready to make updates or corrections as needed.
 Embracing this back-and-forth will help you keep improving your writing skills
 and adapt to the needs of your audience in all kinds of situations.
 
-## 9. Summing it up
+## Summing it up
 
 The writing process is all about striking the right balance between the formal process and the needs of the situation.
 
