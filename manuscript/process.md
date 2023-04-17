@@ -448,7 +448,7 @@ You may know how to fix them now.
 If so, go ahead.
 If not, we'll leave them for the next stage of the writing process: feedback.
 
-## Get feedback
+## 7. Get feedback
 
 Up to this point everything has come from you,
 even thinking about the audience.
@@ -542,10 +542,82 @@ And you may also have a list of positive points which you should try to retain.
 Despite the focus on improving problems,
 you also don't want to edit away something that is working.
 
-## 7. Revise based on feedback
+## 8. Revise based on feedback
 
 Just like with your first revision notes,
 you will go back through and make your changes one at a time,
 evaluating the criteria of clarity, concision, organization, scannability and goal focus.
 By the time you are done,
 you should have a pretty solid draft.
+
+As you revise, make changes one at a time,
+assessing clarity, concision, organization, scannability, and goal focus.
+Pay attention to common themes in the feedback you receive.
+Those are the ones most likely to require revision.
+
+Remember to prioritize the most significant changes first.
+Tackle issues like organization or persuasiveness before minor details like grammar.
+Getting something grammatically correct is a waste of time
+if that entire section will be reworked or removed.
+Throughout revision, continuously review your goals and audience,
+and be prepared for multiple rounds of changes.
+
+After you've revised, seek additional feedback,
+both to verify initial concerns are addressed
+and to ensure no new problems have been introduced.
+Consult with both original and new readers to get different perspectives.
+Remember, continuous revision is crucial for producing a polished and effective piece of writing.
+
+## 9. Publish
+
+Publishing your work is usually the most critical part of the writing process,
+but remember, it can happen at any point, depending on the project.
+In some cases, publishing might be part of an ongoing process,
+with updates and revisions made after the first release.
+This is especially true for things like wiki-based technical documentation
+or presentations that are given multiple times and need tweaks based on audience feedback.
+
+Before you publish, think about the context and the level of polish your writing needs.
+Not every situation calls for super polished writing.
+A quick email to a coworker won't need the same level of refinement as a formal report for the big boss.
+Adapt the level of polish to the context so you strike the right balance between quality and getting things done.
+
+Before hitting that publish button,
+give your work a once-over for any errors or inconsistencies,
+and make sure your formatting looks good,
+based on what's required in your situation.
+This final check is crucial for presenting your writing in the best light.
+
+After publishing, don't forget to spread the word.
+Share your work with the people who need to see it,
+whether that's passing a report to colleagues,
+posting a blog on social media,
+or presenting your findings at a conference.
+Keep in mind that publishing doesn't mean you're done with revisions.
+Be open to feedback even after your work is out there,
+and be ready to make updates or corrections as needed.
+Embracing this back-and-forth will help you keep improving your writing skills
+and adapt to the needs of your audience in all kinds of situations.
+
+## Summing it up
+
+The writing process is all about striking the right balance between the formal process and the needs of the situation.
+
+From setting goals and figuring out who you're writing for,
+to making an outline,
+revising,
+and hitting that publish button,
+each step is important.
+But not equally important.
+
+Keep an eye on your context and switch things up as needed,
+whether it's the level of polish or the amount of feedback and revision you're going for.
+Don't forget, the process can and should be trimmed down when it makes sense for the situation,
+helping you focus on what's most important in each specific context.
+The more you work at it, the better you'll get at writing and connecting with your audience.
+
+Writing takes time, practice, and being open to learning from both the things you nail and the things you, well, don't.
+As you gain experience as a writer,
+you'll find that this whole process starts to feel more natural,
+and your ability to get your point across will only get better.
+Just keep writing, learning, and tweaking your process to fit each unique writing situation you find yourself in.
